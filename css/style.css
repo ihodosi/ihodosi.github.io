@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "cheapsign";
+    src: url("fonts/CheapSign.ttf");
+    }
+@font-face{
+    font-family: "3dlet";
+    src: url("fonts/3dlet.ttf");
+    }
+@font-face{
+    font-family: "saira";
+    src: url("fonts/SairaStencilOne-Regular.ttf");
+    }
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+h1 {
+    color: royalblue; 
+    font-family: 'Bangers', "saira"; 
+    font-size: 120px;
+    text-transform: uppercase;
+    
+}
+p {
+    font-size: 90px;
+    color: grey; 
+    font-family: "saira", Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+img {width: 200px;margin: 20px;}
+
