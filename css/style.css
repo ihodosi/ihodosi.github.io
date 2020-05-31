@@ -1,30 +1,29 @@
-@font-face {
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Press+Start+2P&display=swap');
+
+@font-face { 
     font-family: "cheapsign";
     src: url("fonts/CheapSign.ttf");
     }
-@font-face{
+@font-face{ 
     font-family: "3dlet";
     src: url("fonts/3dlet.ttf");
     }
-@font-face{
+@font-face{ 
     font-family: "saira";
     src: url("fonts/SairaStencilOne-Regular.ttf");
     }
 
-@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
-
 h1 {
     color: royalblue; 
-    font-family: 'Bangers', "saira"; 
-    font-size: 40px;
+    font-family: 'Indie Flower', "saira"; 
+    font-size: 100px;
     text-transform: uppercase;
-    
-}
+    }
 p {
-    font-size: 22px;
+    font-size: 80px;
     color: grey; 
-    font-family: "saira", Arial, Helvetica, sans-serif;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
     text-transform: capitalize;
+    text-align: center;
 }
 img {width: 200px;margin: 20px;}
-
