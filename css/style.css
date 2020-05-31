@@ -14,16 +14,17 @@
     }
 
 h1 {
-    color: royalblue; 
-    font-family: 'Indie Flower', "saira"; 
-    font-size: 100px;
-    text-transform: uppercase;
+    color: blueviolet; 
+    font-family: '3dlet', "saira"; 
+    font-size: 40px;
+    font-stretch: narrower;
+    text-transform: none;
     }
 p {
-    font-size: 80px;
+    font-size: 20px;
     color: grey; 
     font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
     text-transform: capitalize;
-    text-align: center;
+    text-align: left;
 }
-img {width: 200px;margin: 20px;}
+img {width: 300px;margin: 20px;}
